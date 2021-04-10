@@ -1,0 +1,8 @@
+{
+  "lib/**/*.{ts,js}": [
+    "prettier --write"
+  ],
+  "pages/**/*.{js,ts,jsx,tsx}": [
+    "prettier --write"
+  ]
+}
