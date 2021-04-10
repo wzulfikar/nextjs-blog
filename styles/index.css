@@ -13,3 +13,9 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+@layer components {
+    .container pre, .container p {
+        overflow-x: auto;
+    }
+}
