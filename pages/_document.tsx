@@ -4,7 +4,9 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head />
+        <Head>
+          <script src="https://cdn.usefathom.com/script.js" data-site="NJFJHCZE" defer></script>
+        </Head>
         <body>
           <Main />
           <NextScript />
