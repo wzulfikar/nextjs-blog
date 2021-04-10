@@ -5,7 +5,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <script src="https://cdn.usefathom.com/script.js" data-site="NJFJHCZE" defer></script>
+          <script src="https://cougar.wzulfikar.com/script.js" data-site={process.env.NEXT_PUBLIC_FATHOM_SITE_ID} defer></script>
         </Head>
         <body>
           <Main />
