@@ -5,9 +5,9 @@ tags: ["intro", "networking"]
 draft: false
 hideToc: true
 excerpt: "If you are into networking tools for ARP spoof, sniffing, and other MITM-like utilities, you've probably heard about ettercap"
-coverImage: https://og-image.wzulfikar.com/**Using%20Bettercap%20Proxy**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fimgur.com%2F0gjZ4F4.jpg
+coverImage: https://og-image.wzulfikar.com/i/**Using%20Bettercap%20Proxy**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fimgur.com%2F0gjZ4F4.jpg
 ogImage: 
-  url: https://og-image.wzulfikar.com/**Using%20Bettercap%20Proxy**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fimgur.com%2F0gjZ4F4.jpg
+  url: https://og-image.wzulfikar.com/i/**Using%20Bettercap%20Proxy**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fimgur.com%2F0gjZ4F4.jpg
 ---
 
 ## What is Bettercap?

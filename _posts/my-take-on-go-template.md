@@ -5,9 +5,9 @@ draft: false
 tags: ["go"]
 hideToc: true
 excerpt: "In programming, string interpolation is common. Using ES6 (JavaScript), string interpolation can be done like this:..."
-coverImage: https://og-image.wzulfikar.com/**My%20Take%20on%20Go%20Template**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgo.svg
+coverImage: https://og-image.wzulfikar.com/i/**My%20Take%20on%20Go%20Template**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgo.svg
 ogImage: 
-  url: https://og-image.wzulfikar.com/**My%20Take%20on%20Go%20Template**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgo.svg
+  url: https://og-image.wzulfikar.com/i/**My%20Take%20on%20Go%20Template**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgo.svg
 
 ---
 

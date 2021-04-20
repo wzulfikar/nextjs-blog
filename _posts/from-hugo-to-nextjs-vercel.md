@@ -2,9 +2,9 @@
 title: "From Hugo to Next.js + Vercel"
 excerpt: "Before this, I write my blog using Hugo, a static site generator from Go. And now, you're looking at the Next.js version of that blog. Here's what I did to migrate it."
 date: '2021-04-10T03:53:24.613Z'
-coverImage: https://og-image.wzulfikar.com/**From%20Hugo%20to%20Next.js%20%2B%20Vercel**.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-white-logo.svg&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg&widths=200&widths=100&heights=200&heights=100
+coverImage: https://og-image.wzulfikar.com/i/**From%20Hugo%20to%20Next.js%20%2B%20Vercel**.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-white-logo.svg&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg&widths=200&widths=100&heights=200&heights=100
 ogImage: 
-  url: https://og-image.wzulfikar.com/**From%20Hugo%20to%20Next.js%20%2B%20Vercel**.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-white-logo.svg&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg&widths=200&widths=100&heights=200&heights=100
+  url: https://og-image.wzulfikar.com/i/**From%20Hugo%20to%20Next.js%20%2B%20Vercel**.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-white-logo.svg&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg&widths=200&widths=100&heights=200&heights=100
 ---
 
 The blog that I have in [wzulfikar.com](https://wzulfikar.com) was written using [Hugo](https://gohugo.io), a static site generator from Go. And now, you're looking at the Next.js version of that blog. Here's what I did to migrate it. 
@@ -43,9 +43,9 @@ excerpt: "Collection of programming gotchas I have  encountered. The one that ma
 tags: ["programming"]
 draft: false
 hideToc: true
-coverImage: https://og-image.wzulfikar.com/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+coverImage: https://og-image.wzulfikar.com/i/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ogImage: 
-  url: https://og-image.wzulfikar.com/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+  url: https://og-image.wzulfikar.com/i/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ---
 
 My markdown content..

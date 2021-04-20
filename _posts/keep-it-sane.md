@@ -5,9 +5,9 @@ tags: ["workflow", "xp"]
 draft: false
 hideToc: true
 excerpt: "This is a list of issues that I've dealt with at least once. The list would serve as a shortcut to save me time from trying to google the solution again and again. It's like index of things that had bitten me in the past."
-coverImage: https://og-image.wzulfikar.com/**Keep%20it%20Sane**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+coverImage: https://og-image.wzulfikar.com/i/**Keep%20it%20Sane**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ogImage: 
-  url: https://og-image.wzulfikar.com/**Keep%20it%20Sane**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+  url: https://og-image.wzulfikar.com/i/**Keep%20it%20Sane**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ---
 
 This is a list of issues that I've dealt with at least once. The list would serve as a shortcut to save me time from trying to google the solution again and again. It's like index of things that had bitten me in the past.

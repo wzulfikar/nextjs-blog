@@ -3,9 +3,9 @@ title: "A Night with Kubernetes"
 excerpt: "Dealing with lot of applications that are containerized (ie. via docker) and installed across regions can cause headache; from restarting containers, deploying to multiple nodes, scaling, etc. Kubernetes is a tool to help us deal with such situation by putting those containers in a cluster"
 date: '2018-03-21T23:13:40+08:00'
 tags: ["devops", "cloud"]
-coverImage: https://og-image.wzulfikar.com/A%20night%20with%20**Kubernetes**..png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fkubernetes.svg
+coverImage: https://og-image.wzulfikar.com/i/A%20night%20with%20**Kubernetes**..png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fkubernetes.svg
 ogImage: 
-  url: https://og-image.wzulfikar.com/A%20night%20with%20**Kubernetes**..png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fkubernetes.svg
+  url: https://og-image.wzulfikar.com/i/A%20night%20with%20**Kubernetes**..png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fkubernetes.svg
 ---
 
 <p class="figure-text">Kubernetes Logo.</p>

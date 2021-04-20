@@ -5,9 +5,9 @@ tags: ["reflection"]
 draft: false
 post_id: 23
 excerpt: "I was visiting a library in my block this morning, and stumbled upon a book authored by Austin Kleon in 2012, titled 'Steal Like an Artist'..."
-coverImage: https://og-image.wzulfikar.com/**Steal%20Like%20an%20Artist**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fi.imgur.com%2FT7jNjvD.jpg&widths=undefined&widths=200&heights=undefined&heights=200
+coverImage: https://og-image.wzulfikar.com/i/**Steal%20Like%20an%20Artist**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fi.imgur.com%2FT7jNjvD.jpg&widths=undefined&widths=200&heights=undefined&heights=200
 ogImage: 
-  url: https://og-image.wzulfikar.com/**Steal%20Like%20an%20Artist**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fi.imgur.com%2FT7jNjvD.jpg&widths=undefined&widths=200&heights=undefined&heights=200
+  url: https://og-image.wzulfikar.com/i/**Steal%20Like%20an%20Artist**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE&images=https%3A%2F%2Fi.imgur.com%2FT7jNjvD.jpg&widths=undefined&widths=200&heights=undefined&heights=200
 ---
 
 I was visiting a library in my block this morning, and stumbled upon a book authored by Austin Kleon in 2012, titled "Steal Like an Artist" (you can find it online in Amazon, Book Depository, etc.). Upon skimming few of its pages, I already felt like I want to finish the book soon.

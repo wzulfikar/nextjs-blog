@@ -5,9 +5,9 @@ excerpt: "Collection of programming gotchas I have  encountered. The one that ma
 tags: ["programming"]
 draft: false
 hideToc: true
-coverImage: https://og-image.wzulfikar.com/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+coverImage: https://og-image.wzulfikar.com/i/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ogImage: 
-  url: https://og-image.wzulfikar.com/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+  url: https://og-image.wzulfikar.com/i/**Gotcha!**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ---
 
 Collection of programming gotchas I have personally encountered. And made me confused.

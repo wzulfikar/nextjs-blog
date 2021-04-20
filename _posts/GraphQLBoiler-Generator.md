@@ -4,9 +4,9 @@ date: "2018-03-05T00:21:19+08:00"
 tags: ["go", "sqlboiler", "graphql"]
 draft: false
 excerpt: "This note as a continuation of my journey with Go template. Based on the knowledge of what template package can do, we'll generate a resolvers code from a given sqlboiler model struct to to satisfy graphql implementation of neelance/graphql-go."
-coverImage: https://og-image.wzulfikar.com/GraphQL%20%2B%20SQLBoiler%20Generator.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgraphql.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgraphql.svg
+coverImage: https://og-image.wzulfikar.com/i/GraphQL%20%2B%20SQLBoiler%20Generator.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgraphql.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgraphql.svg
 ogImage: 
-  url: https://og-image.wzulfikar.com/GraphQL%20%2B%20SQLBoiler%20Generator.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgraphql.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgraphql.svg
+  url: https://og-image.wzulfikar.com/i/GraphQL%20%2B%20SQLBoiler%20Generator.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fgraphql.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dgraphql.svg
 ---
 
 This note as a continuation of my journey with Go template. Based on the knowledge of what template package can do, we'll generate a resolvers code from a given sqlboiler model struct to to satisfy graphql implementation of neelance/graphql-go.

@@ -6,9 +6,9 @@ tags: ["xp", "reflection"]
 draft: false
 hideToc: true
 excerpt: "Earlier this week, I received an invitation from Persatuan Pelajar Indonesia (PPI) –– an Indonesian Students Society at my campus (IIUM, Malaysia),..."
-coverImage: https://og-image.wzulfikar.com/**PPI-IIUM%20Producation%202018**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+coverImage: https://og-image.wzulfikar.com/i/**PPI-IIUM%20Producation%202018**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ogImage: 
-  url: https://og-image.wzulfikar.com/**PPI-IIUM%20Producation%202018**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
+  url: https://og-image.wzulfikar.com/i/**PPI-IIUM%20Producation%202018**.png?theme=dark&md=1&fontSize=100px&images=NO_IMAGE
 ---
 
 Earlier this week, I received an invitation from Persatuan Pelajar Indonesia (PPI) –– an Indonesian Students Society at my campus (IIUM, Malaysia), to become a speaker of a sharing session event titled "Producation". The event will be held at IIUM this coming Friday, March 30.

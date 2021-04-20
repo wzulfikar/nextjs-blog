@@ -5,9 +5,9 @@ tags: ["experiment", "go"]
 draft: false
 hideToc: true
 excerpt: "So, I've been through the path of Wordpress, Tumblr, Ghost, and recently, Gitbook. Each has its own merits and drawbacks. However, I see something interesting from Hugo, that I didn't see in my previous adventures with other writing tools."
-coverImage: https://og-image.wzulfikar.com/Hello%20**Hugo**!.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fhugo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dhugo.svg
+coverImage: https://og-image.wzulfikar.com/i/Hello%20**Hugo**!.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fhugo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dhugo.svg
 ogImage: 
-  url: https://og-image.wzulfikar.com/Hello%20**Hugo**!.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fhugo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dhugo.svg
+  url: https://og-image.wzulfikar.com/i/Hello%20**Hugo**!.png?theme=dark&md=1&fontSize=75px&images=NO_IMAGE&images=https%3A%2F%2Fcdn.svgporn.com%2Flogos%2Fhugo.svg%3Fresponse-content-disposition%3Dattachment%253Bfilename%253Dhugo.svg
 ---
 
 <p class="text-center">Another experiment on how/where I write things I like to write <i>(Duh)</i>.</p>
